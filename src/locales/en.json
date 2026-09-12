@@ -34,265 +34,340 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your San Diego Roleplay Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master city navigation, vehicle controls, server rules, and the fundamental roleplay gameplay loop."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Team & Role Selection",
+          "description": "Choose between Civilian, Police Department, Sheriff, EMS, or Fire Rescue to match your preferred playstyle."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Money Making Guide",
+          "description": "Discover profitable civilian jobs, transit routes, and business ventures to build your city wealth."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Vehicle & Driving Guide",
+          "description": "Learn vehicle spawning mechanics, driving physics, city speed limits, and performance customization."
         }
       ]
     },
     "popular": {
-      "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "eyebrow": "Popular Guides",
+      "title": "Trending in San Diego Roleplay",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Police Guide",
+        "Money Making",
+        "Vehicle Controls"
       ],
       "cards": [
         {
-          "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "badge": "Essential",
+          "title": "Beginner Walkthrough",
+          "description": "Complete getting started walkthrough covering basic controls, spawn points, and roleplay etiquette.",
+          "href": "/guide/san-diego-roleplay-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Active",
+          "title": "Redeem Codes",
+          "description": "All working promotional codes and redemption steps for bonus cash and vehicle perks.",
+          "href": "/codes/san-diego-roleplay-codes"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Teams & Departments",
+          "description": "Overview of Law Enforcement, Fire Rescue, Paramedic, and Civilian department duties.",
+          "href": "/teams/san-diego-roleplay-teams-guide"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Economy",
+          "title": "Fast Cash Guide",
+          "description": "Top civilian jobs, logistics delivery, and high-yield activities to earn money quickly.",
+          "href": "/economy/san-diego-roleplay-money-making-guide"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Vehicles",
+          "title": "Vehicle Catalog",
+          "description": "Civilian sports cars, law enforcement cruisers, emergency apparatus, and handling stats.",
+          "href": "/vehicles/san-diego-roleplay-vehicles-guide"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Upgrades",
+          "title": "Gamepasses & VIP",
+          "description": "Detailed breakdown of premium vehicles, department privileges, and VIP feature value.",
+          "href": "/gamepasses/san-diego-roleplay-gamepasses-guide"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "News",
+          "title": "Server Updates",
+          "description": "Latest patch notes, map extensions, new vehicle fleets, and server development logs.",
+          "href": "/updates/san-diego-roleplay-updates-news"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Community",
+          "title": "Official Channels",
+          "description": "Roblox group directory, Discord patrol events, and community support links.",
+          "href": "/community/san-diego-roleplay-community-links"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is San Diego Roleplay?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "San Diego Roleplay is an immersive open-world roleplaying experience on Roblox set in the picturesque coastal city of San Diego. Players step into realistic everyday life, dynamic emergency services, or organized civilian professions, participating in spontaneous interactions and structured community patrols.",
+        "Whether enforcing traffic laws as a San Diego Police Department officer, responding to emergency calls as EMS paramedics, running local businesses, or cruising the scenic Pacific highway, our wiki provides complete guides, department standards, and gameplay strategies."
       ],
       "stats": [
-        {
-          "label": "Developer",
-          "value": "Midnight Continent"
-        },
         {
           "label": "Platform",
           "value": "Roblox"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Roleplay & Sim"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Community",
+          "value": "Active RP"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Roles",
+          "value": "5+ Teams"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Vehicles",
+          "value": "50+ Cars"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Access",
+          "value": "Free to Play"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore San Diego Roleplay Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore San Diego Roleplay",
+      "description": "Browse comprehensive game modules covering codes, beginner walkthroughs, team roles, economy guides, vehicles, and community updates.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "San Diego Roleplay Codes",
+          "description": "Show the latest available redeem codes, rewards, expiration status, and redemption steps for players looking for free cash or items. This module targets high-intent searches such as San Diego Roleplay codes and new codes updates.",
+          "href": "/codes/san-diego-roleplay-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "COMING-SOON",
+              "detail": "Check back soon for new redemption codes",
+              "badge": "Active"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "STAY-TUNED",
+              "detail": "Official developer codes released on Discord updates",
+              "badge": "Info"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "HOW-TO-REDEEM",
+              "detail": "Open Settings menu or Code terminal in-game to claim",
+              "badge": "Guide"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "San Diego Roleplay Beginner Guide",
+          "description": "Provide a complete beginner walkthrough covering how to start, spawn vehicles, use checkpoints, choose roles, and understand the basic gameplay loop. This helps new players quickly learn the core roleplay experience.",
+          "href": "/guide/san-diego-roleplay-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Spawn in the city center and configure your character appearance"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Head to the Vehicle Dealership or spawner to get your starter car"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Review city speed limits, road rules, and roleplay etiquette"
+            },
+            {
+              "label": "4",
+              "detail": "Select your initial starter job or apply for public service teams"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "San Diego Roleplay Teams Guide",
+          "description": "Explain available teams, their roles, gameplay styles, equipment differences, and recommended player types. Players searching for San Diego Roleplay teams and best roles can compare options in one place.",
+          "href": "/teams/san-diego-roleplay-teams-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Police",
+              "detail": "Patrol city streets, enforce traffic laws, and respond to emergency 911 calls"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Sheriff",
+              "detail": "County jurisdiction, highway speed enforcement, and tactical field response"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Fire",
+              "detail": "Extinguish structure fires, manage hazardous incidents, and rescue civilians"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Paramedic",
+              "detail": "Medical trauma triage, patient transport to San Diego General Hospital"
+            },
+            {
+              "label": "Civilian",
+              "detail": "Diverse career choices, vehicle customization, business ownership, and free RP"
+            },
+            {
+              "label": "Transit",
+              "detail": "Highway maintenance, vehicle towing, road work, and traffic hazard clearing"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "San Diego Roleplay Money Making Guide",
+          "description": "Cover the main ways players can earn in-game money, including legal activities, roleplay jobs, and risk-based strategies. This module targets searches related to making money fast and progression tips.",
+          "href": "/economy/san-diego-roleplay-money-making-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Start with entry-level delivery courier jobs for guaranteed hourly income"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Complete municipal service tasks and taxi passenger transport routes"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Invest earnings into commercial vehicles and higher-paying job tiers"
+            },
+            {
+              "label": "4",
+              "detail": "Engage in advanced team careers or business ventures for maximum profit"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "San Diego Roleplay Vehicles Guide",
+          "description": "Introduce available vehicles, vehicle usage, upgrades, and recommended choices for different play styles. This section captures searches around cars, transportation, and vehicle-related gameplay.",
+          "href": "/vehicles/san-diego-roleplay-vehicles-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Sedan",
+              "detail": "Affordable starter cars with dependable city handling and low maintenance"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Cruiser",
+              "detail": "Law enforcement interceptors equipped with emergency lightbars and pushbars"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "SUV",
+              "detail": "Heavy-duty offroad utility vehicles built for rural and mountain patrol"
+            },
+            {
+              "label": "Ambulance",
+              "detail": "Specialized medical transport vehicles with life-support equipment"
+            },
+            {
+              "label": "Engine",
+              "detail": "Heavy structural fire apparatus with water tenders and ladder gear"
+            },
+            {
+              "label": "Supercar",
+              "detail": "High-end civilian exotic vehicles with exceptional top speed and styling"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "San Diego Roleplay Gamepasses Guide",
+          "description": "List important gamepasses and premium features with explanations of their benefits and value for different players. This helps users searching whether specific upgrades are worth buying.",
+          "href": "/gamepasses/san-diego-roleplay-gamepasses-guide",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "S",
+              "detail": "Emergency Services Priority Pass — instant access to restricted police & EMS teams"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "A",
+              "detail": "Custom Vehicle Tuning — unlock exclusive liveries, custom rims, and engine upgrades"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "B",
+              "detail": "Radio & Dispatch Audio Pass — real-time team communication and scanner channels"
+            },
+            {
+              "label": "C",
+              "detail": "Specialty Vanity Horns & Underglow — cosmetic visual enhancements for personal cars"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "San Diego Roleplay Updates & News",
+          "description": "Display recent game updates, feature changes, announcements, and development information. This module targets players searching for new updates and current game status.",
+          "href": "/updates/san-diego-roleplay-updates-news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Border",
+              "detail": "Added brand-new border checkpoint, tactical equipment, and inspection lanes"
+            },
+            {
+              "label": "Fleet",
+              "detail": "Introduced refreshed law enforcement cruisers and civilian compact vehicles"
+            },
+            {
+              "label": "Economy",
+              "detail": "Rebalanced job payouts for delivery drivers and municipal transit operators"
+            },
+            {
+              "label": "Map",
+              "detail": "Expanded downtown commercial district with new interiors and parking facilities"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "San Diego Roleplay Community Links",
+          "description": "Collect official community resources such as the Roblox page and developer community channels where players can follow announcements and participate in discussions. This improves trust and helps users find official sources.",
+          "href": "/community/san-diego-roleplay-community-links",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Roblox",
+              "detail": "Official San Diego Roleplay experience page on the Roblox platform"
+            },
+            {
+              "label": "Discord",
+              "detail": "Join the verified community server for patrol schedules and server announcements"
+            },
+            {
+              "label": "Rules",
+              "detail": "Official server community guidelines, roleplay terms, and moderation policies"
+            },
+            {
+              "label": "Support",
+              "detail": "Department application forms and player support assistance channels"
             }
           ]
         }
@@ -300,27 +375,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to common questions about San Diego Roleplay.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is San Diego Roleplay?",
+          "answer": "San Diego Roleplay is a realistic open-world roleplaying experience on Roblox where players take on civilian jobs, join emergency services like police and fire rescue, customize vehicles, and interact within a detailed San Diego city setting."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I get started in San Diego Roleplay?",
+          "answer": "New players in San Diego Roleplay can spawn in the city hub, pick a starter vehicle, review the community road rules, and begin earning money through delivery jobs or public department duty."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Are there active promo codes for San Diego Roleplay?",
+          "answer": "Codes for San Diego Roleplay are periodically released during major updates and milestones; check our dedicated Codes page regularly for newly verified codes."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Which team or career is best in San Diego Roleplay?",
+          "answer": "In San Diego Roleplay, law enforcement teams offer structured patrols and tactical calls, while civilian roles provide maximum freedom for business ownership, cruising, and property management."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Is San Diego Roleplay free to play on Roblox?",
+          "answer": "Yes, San Diego Roleplay is completely free to play on Roblox, with optional gamepasses available for players who want priority vehicle access and specialized equipment."
         }
       ]
     },
@@ -331,7 +406,6 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
