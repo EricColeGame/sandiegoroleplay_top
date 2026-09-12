@@ -6,7 +6,15 @@
     "description": "Explore San Diego Roleplay Wiki for GTA RP guides, jobs, factions, server information, rules, and gameplay tips for immersive roleplay experiences.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "codes": "Codes",
+    "roles": "Roles",
+    "features": "Features",
+    "money": "Money",
+    "updates": "Updates",
+    "community": "Community"
+  },
   "home": {
     "meta": {
       "title": "San Diego Roleplay Wiki - GTA RP, Jobs & Server Guide",
@@ -440,5 +448,33 @@
     "buildGuide": "Vehicle Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "San Diego Roleplay Guides & Tutorials",
+    "overviewDescription": "Explore beginner guides, gameplay mechanics, tutorials, and pro tips to master San Diego Roleplay."
+  },
+  "codes": {
+    "overviewTitle": "San Diego Roleplay Codes & Rewards",
+    "overviewDescription": "Find the latest active San Diego Roleplay promo codes, secret rewards, and step-by-step redemption guides."
+  },
+  "roles": {
+    "overviewTitle": "San Diego Roleplay Factions & Roles",
+    "overviewDescription": "Discover all factions in San Diego Roleplay, including Police, FBI, US Army, Civilians, and ranking paths."
+  },
+  "features": {
+    "overviewTitle": "San Diego Roleplay Features & Equipment",
+    "overviewDescription": "Learn about weapons, vehicles, bank robbery mechanics, properties, and gamepasses in San Diego Roleplay."
+  },
+  "money": {
+    "overviewTitle": "San Diego Roleplay Money Making Methods",
+    "overviewDescription": "Learn how to earn pesos fast, use money printers, optimize legal jobs, and build wealth in San Diego Roleplay."
+  },
+  "updates": {
+    "overviewTitle": "San Diego Roleplay Updates & Patch Notes",
+    "overviewDescription": "Stay informed on the newest updates, vehicle additions, map expansions, and patch notes for San Diego Roleplay."
+  },
+  "community": {
+    "overviewTitle": "San Diego Roleplay Community & Social Links",
+    "overviewDescription": "Connect with the San Diego Roleplay community, join the official Discord server, and participate in events."
   }
 }

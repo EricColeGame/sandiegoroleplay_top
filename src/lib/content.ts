@@ -237,39 +237,56 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
-  guide: "Getting Started",
-  "tier-list": "Tier Lists",
-};
-
-// 日文分组标题映射
-const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
+  guide: "Guides & Tutorials",
+  codes: "Redeem Codes",
+  roles: "Factions & Roles",
+  features: "Features & Gear",
+  money: "Money Making",
+  updates: "Updates & News",
+  community: "Community",
 };
 
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
-  ja: GROUP_TITLES_JA,
+  es: {
+    guide: "Guías y Tutoriales",
+    codes: "Códigos de Canje",
+    roles: "Facciones y Roles",
+    features: "Funciones y Armas",
+    money: "Hacer Dinero",
+    updates: "Actualizaciones",
+    community: "Comunidad",
+  },
+  pt: {
+    guide: "Guias e Tutoriais",
+    codes: "Códigos Promocionais",
+    roles: "Facções e Funções",
+    features: "Recursos e Armas",
+    money: "Ganhar Dinheiro",
+    updates: "Atualizações",
+    community: "Comunidade",
+  },
+  de: {
+    guide: "Anleitungen & Tutorials",
+    codes: "Einlösecodes",
+    roles: "Fraktionen & Rollen",
+    features: "Features & Ausrüstung",
+    money: "Geld Verdienen",
+    updates: "Updates & News",
+    community: "Community",
+  },
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
-  ja: "一覧",
+  es: "Visión General",
+  pt: "Visão Geral",
+  de: "Übersicht",
 };
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide", "codes", "roles", "features", "money", "updates", "community",
 ];
 
 /**
