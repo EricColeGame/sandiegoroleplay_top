@@ -1,1 +1,480 @@
-{}
+{
+  "site": {
+    "name": "San Diego Roleplay Wiki",
+    "shortName": "San Diego RP",
+    "tagline": "Guías de GTA RP, Empleos, Equipos y Servidor Wiki",
+    "description": "Explora San Diego Roleplay Wiki para encontrar guías de GTA RP, trabajos, facciones, información del servidor, reglas y consejos para una experiencia de rol inmersiva.",
+    "legalNotice": "Wiki fan no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "guide": "Guía",
+    "codes": "Códigos",
+    "roles": "Roles",
+    "features": "Funciones",
+    "money": "Dinero",
+    "updates": "Novedades",
+    "community": "Comunidad"
+  },
+  "home": {
+    "meta": {
+      "title": "San Diego Roleplay Wiki - Guía de GTA RP, Empleos y Servidor",
+      "description": "Explora San Diego Roleplay Wiki para encontrar guías de GTA RP, trabajos, facciones, información del servidor, reglas y consejos para una experiencia de rol inmersiva."
+    },
+    "hero": {
+      "eyebrow": "Servidor Comunitario de GTA Roleplay",
+      "title": "San Diego Roleplay Wiki",
+      "description": "Una experiencia inmersiva de roleplay en GTA impulsada por la comunidad, con vida civil realista, fuerzas del orden, emergencias médicas, negocios e interacciones urbanas detalladas.",
+      "stats": [
+        "Comunidad Activa",
+        "Múltiples Roles",
+        "Actualizaciones Frecuentes",
+        "Guías Detalladas"
+      ],
+      "primaryCta": "Guía para Principiantes",
+      "secondaryCta": "Equipos y Roles",
+      "tertiaryCta": "Guías del Servidor",
+      "videoLabel": "Demostración de Juego"
+    },
+    "updates": {
+      "title": "Últimas Novedades",
+      "browse": "Explorar Todas las Guías",
+      "viewAll": "Ver Todo"
+    },
+    "start": {
+      "eyebrow": "Comienza Aquí",
+      "title": "Tu Trayectoria en San Diego Roleplay",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para Principiantes",
+          "description": "Domina la navegación por la ciudad, controles de vehículos, reglas del servidor y la dinámica básica de rol."
+        },
+        {
+          "number": "2",
+          "title": "Selección de Equipo y Rol",
+          "description": "Elige entre Civil, Departamento de Policía, Sheriff, Paramédicos o Bomberos según tu estilo de juego favorito."
+        },
+        {
+          "number": "3",
+          "title": "Guía para Ganar Dinero",
+          "description": "Descubre trabajos civiles rentables, rutas de transporte y negocios para construir tu fortuna en la ciudad."
+        },
+        {
+          "number": "4",
+          "title": "Guía de Vehículos y Conducción",
+          "description": "Aprende el sistema de aparición de coches, física de manejo, límites de velocidad urbanos y personalización."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Guías Populares",
+      "title": "Tendencias en San Diego Roleplay",
+      "quickLinks": [
+        "Guía de Inicio",
+        "Guía Policial",
+        "Ganar Dinero",
+        "Control de Coches"
+      ],
+      "cards": [
+        {
+          "badge": "Esencial",
+          "title": "Tutorial de Inicio",
+          "description": "Recorrido completo para principiantes con controles básicos, puntos de aparición y etiqueta de rol.",
+          "href": "/guide/san-diego-roleplay-beginner-guide"
+        },
+        {
+          "badge": "Activo",
+          "title": "Canjear Códigos",
+          "description": "Todos los códigos promocionales vigentes y pasos para canjear dinero extra y ventajas vehiculares.",
+          "href": "/codes/san-diego-roleplay-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Equipos y Departamentos",
+          "description": "Resumen de deberes para Fuerzas del Orden, Bomberos, Servicios Médicos y Sector Civil.",
+          "href": "/teams/san-diego-roleplay-teams-guide"
+        },
+        {
+          "badge": "Economía",
+          "title": "Guía de Dinero Rápido",
+          "description": "Los mejores empleos civiles, logística de repartos y actividades de alto rendimiento económico.",
+          "href": "/economy/san-diego-roleplay-money-making-guide"
+        },
+        {
+          "badge": "Vehículos",
+          "title": "Catálogo de Vehículos",
+          "description": "Deportivos civiles, patrullas policiales, camiones de bomberos y estadísticas de maniobrabilidad.",
+          "href": "/vehicles/san-diego-roleplay-vehicles-guide"
+        },
+        {
+          "badge": "Pases",
+          "title": "Gamepasses y VIP",
+          "description": "Análisis detallado de vehículos premium, ventajas de departamento y valor de suscripciones VIP.",
+          "href": "/gamepasses/san-diego-roleplay-gamepasses-guide"
+        },
+        {
+          "badge": "Noticias",
+          "title": "Actualizaciones del Servidor",
+          "description": "Últimas notas de parches, expansiones de mapa, nuevas flotas de coches y registros de desarrollo.",
+          "href": "/updates/san-diego-roleplay-updates-news"
+        },
+        {
+          "badge": "Comunidad",
+          "title": "Canales Oficiales",
+          "description": "Directorio del grupo de Roblox, eventos de patrulla en Discord y enlaces de soporte comunitario.",
+          "href": "/community/san-diego-roleplay-community-links"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es San Diego Roleplay?",
+      "paragraphs": [
+        "San Diego Roleplay es una experiencia inmersiva de mundo abierto en Roblox ambientada en la emblemática ciudad costera de San Diego. Los jugadores disfrutan de una vida cotidiana realista, servicios de emergencia dinámicos o profesiones civiles organizadas mediante patrullajes comunitarios estructurados.",
+        "Ya sea aplicando leyes de tránsito como oficial del Departamento de Policía de San Diego, atendiendo llamadas del 911 como paramédico, administrando negocios locales o conduciendo por la costa del Pacífico, nuestra wiki te ofrece guías completas y estrategias de juego."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Roleplay y Sim"
+        },
+        {
+          "label": "Comunidad",
+          "value": "RP Activo"
+        },
+        {
+          "label": "Roles",
+          "value": "5+ Equipos"
+        },
+        {
+          "label": "Vehículos",
+          "value": "50+ Coches"
+        },
+        {
+          "label": "Acceso",
+          "value": "Gratis"
+        }
+      ],
+      "cta": "Explorar Todas las Guías"
+    },
+    "explore": {
+      "title": "Explorar San Diego Roleplay",
+      "description": "Explora módulos completos del juego con códigos, guías iniciales, roles de equipo, economía, vehículos y noticias comunitarias.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "San Diego Roleplay Codes",
+          "description": "Consulta los códigos de recompensa más recientes, objetos gratuitos y pasos de canje en San Diego Roleplay para obtener dinero extra y ventajas.",
+          "href": "/codes/san-diego-roleplay-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "COMING-SOON",
+              "detail": "Vuelve pronto para consultar nuevos códigos de canje",
+              "badge": "Activo"
+            },
+            {
+              "label": "STAY-TUNED",
+              "detail": "Códigos oficiales lanzados por desarrolladores en Discord",
+              "badge": "Info"
+            },
+            {
+              "label": "HOW-TO-REDEEM",
+              "detail": "Abre el menú de ajustes o terminal de códigos en el juego",
+              "badge": "Guía"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "San Diego Roleplay Beginner Guide",
+          "description": "Guía completa de inicio que explica cómo aparecer vehículos, interactuar con puntos clave, elegir roles y comprender las reglas de San Diego Roleplay.",
+          "href": "/guide/san-diego-roleplay-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Aparece en el centro urbano y personaliza la apariencia de tu personaje"
+            },
+            {
+              "label": "2",
+              "detail": "Dirígete al concesionario de coches para obtener tu primer vehículo"
+            },
+            {
+              "label": "3",
+              "detail": "Revisa los límites de velocidad, leyes de tránsito y normas de convivencia"
+            },
+            {
+              "label": "4",
+              "detail": "Selecciona tu primer empleo o postúlate a los servicios públicos"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "San Diego Roleplay Teams Guide",
+          "description": "Detalla las facciones y departamentos disponibles, sus responsabilidades de servicio y equipamiento especializado en San Diego Roleplay.",
+          "href": "/teams/san-diego-roleplay-teams-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Police",
+              "detail": "Patrulla avenidas urbanas, fiscaliza el tráfico y responde a llamadas de emergencia 911"
+            },
+            {
+              "label": "Sheriff",
+              "detail": "Jurisdicción en el condado, control de velocidad en autopistas y operativos tácticos"
+            },
+            {
+              "label": "Fire",
+              "detail": "Extinción de incendios estructurales, control de incidentes químicos y rescate civil"
+            },
+            {
+              "label": "Paramedic",
+              "detail": "Triaje de traumatismos y traslado urgente al Hospital General de San Diego"
+            },
+            {
+              "label": "Civilian",
+              "detail": "Diversas profesiones, personalización de coches, compra de propiedades y rol libre"
+            },
+            {
+              "label": "Transit",
+              "detail": "Mantenimiento vial, remolque de vehículos accidentados y despeje de carreteras"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "San Diego Roleplay Money Making Guide",
+          "description": "Descubre los mejores métodos para ganar dinero en San Diego Roleplay, desde rutas de mensajería hasta carreras profesionales de alto nivel.",
+          "href": "/economy/san-diego-roleplay-money-making-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Comienza con empleos de reparto para asegurar ingresos iniciales constantes"
+            },
+            {
+              "label": "2",
+              "detail": "Realiza servicios municipales y rutas de transporte de pasajeros en taxi"
+            },
+            {
+              "label": "3",
+              "detail": "Invierte tus ganancias en vehículos comerciales y puestos de mayor categoría"
+            },
+            {
+              "label": "4",
+              "detail": "Participa en carreras departamentales o emprendimientos para maximizar beneficios"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "San Diego Roleplay Vehicles Guide",
+          "description": "Información sobre la amplia gama de vehículos civiles y patrullas de servicio en San Diego Roleplay, junto con consejos de manejo.",
+          "href": "/vehicles/san-diego-roleplay-vehicles-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Sedan",
+              "detail": "Coches iniciales económicos con excelente maniobrabilidad urbana y bajo consumo"
+            },
+            {
+              "label": "Cruiser",
+              "detail": "Patrullas policiales de intercepción equipadas con torretas luminosas y defensas"
+            },
+            {
+              "label": "SUV",
+              "detail": "Vehículos todoterreno robustos ideales para patrullajes rurales y montañosos"
+            },
+            {
+              "label": "Ambulance",
+              "detail": "Unidades médicas equipadas con instrumental avanzado de soporte vital"
+            },
+            {
+              "label": "Engine",
+              "detail": "Camiones pesados de bomberos con cisternas de agua y equipo de escaleras"
+            },
+            {
+              "label": "Supercar",
+              "detail": "Deportivos exóticos de alta gama con aceleración superior y diseño de lujo"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "San Diego Roleplay Gamepasses Guide",
+          "description": "Revisión completa de pases de juego, ventajas VIP y coches exclusivos en San Diego Roleplay para valorar tu compra.",
+          "href": "/gamepasses/san-diego-roleplay-gamepasses-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Pase Prioritario de Emergencias — acceso inmediato a equipos policiales y sanitarios"
+            },
+            {
+              "label": "A",
+              "detail": "Modificaciones de Vehículos — llantas exclusivas, diseños y mejoras mecánicas"
+            },
+            {
+              "label": "B",
+              "detail": "Pase de Radio y Despacho — comunicación en tiempo real y frecuencias de escáner"
+            },
+            {
+              "label": "C",
+              "detail": "Bocinas Especiales y Luces Neón — mejoras cosméticas y luces inferiores para coches"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "San Diego Roleplay Updates & News",
+          "description": "Mantente informado sobre las expansiones de mapa, mejoras de rendimiento y novedades agregadas a San Diego Roleplay.",
+          "href": "/updates/san-diego-roleplay-updates-news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Border",
+              "detail": "Nuevo puesto de control fronterizo con equipamiento táctico e inspecciones"
+            },
+            {
+              "label": "Fleet",
+              "detail": "Renovación de patrullas policiales y llegada de nuevos coches compactos civiles"
+            },
+            {
+              "label": "Economy",
+              "detail": "Rebalanceo de tarifas en trabajos de reparto y operadores de tránsito municipal"
+            },
+            {
+              "label": "Map",
+              "detail": "Ampliación del distrito comercial céntrico con más interiores y aparcamientos"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "San Diego Roleplay Community Links",
+          "description": "Enlaces oficiales a la comunidad de San Diego Roleplay en Roblox y Discord para eventos y contacto con moderadores.",
+          "href": "/community/san-diego-roleplay-community-links",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Roblox",
+              "detail": "Página oficial de San Diego Roleplay en la plataforma Roblox"
+            },
+            {
+              "label": "Discord",
+              "detail": "Servidor oficial de Discord para horarios de patrullas y anuncios del equipo"
+            },
+            {
+              "label": "Rules",
+              "detail": "Reglamento comunitario oficial, términos de roleplay y políticas de moderación"
+            },
+            {
+              "label": "Support",
+              "detail": "Formularios de postulación a departamentos y canales de asistencia al jugador"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "description": "Respuestas rápidas a las consultas más habituales sobre San Diego Roleplay.",
+      "items": [
+        {
+          "question": "¿Qué es San Diego Roleplay?",
+          "answer": "San Diego Roleplay es una experiencia realista de rol en mundo abierto en Roblox donde los jugadores desempeñan oficios civiles, integran servicios de policía y bomberos, modifican coches e interactúan en la ciudad de San Diego."
+        },
+        {
+          "question": "¿Cómo empezar a jugar en San Diego Roleplay?",
+          "answer": "Los nuevos jugadores en San Diego Roleplay pueden aparecer en el centro urbano, elegir un vehículo de inicio, revisar las reglas de tránsito y ganar dinero mediante repartos o servicio público."
+        },
+        {
+          "question": "¿Hay códigos activos para San Diego Roleplay?",
+          "answer": "Los códigos para San Diego Roleplay se publican periódicamente con actualizaciones importantes; consulta nuestra sección de Códigos para canjear las últimas recompensas verificadas."
+        },
+        {
+          "question": "¿Cuál es el mejor equipo o carrera en San Diego Roleplay?",
+          "answer": "En San Diego Roleplay, las fuerzas policiales ofrecen patrullajes tácticos estructurados, mientras que los roles civiles brindan máxima libertad para emprender negocios y conducir."
+        },
+        {
+          "question": "¿Es San Diego Roleplay gratis en Roblox?",
+          "answer": "Sí, San Diego Roleplay es totalmente gratuito en Roblox, con gamepasses opcionales para acceder a vehículos prioritarios y equipamiento exclusivo."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para unirte a San Diego Roleplay?",
+      "description": "Desde la vida civil y carreras comerciales hasta patrullajes policiales, nuestra wiki te acompaña con guías completas.",
+      "primary": "Leer la Guía para Principiantes",
+      "secondary": "Jugar en Roblox"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la Wiki",
+    "activeCodes": "Códigos Activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de Contenidos",
+    "nextSteps": "Siguientes Pasos",
+    "needHelp": "¿Necesitas Ayuda?",
+    "relatedReading": "Lecturas Relacionadas",
+    "relatedGuides": "Guías Relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios Oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "No hay guías disponibles todavía. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "San Diego Roleplay Wiki",
+    "about": "San Diego Roleplay Wiki es un centro independiente de guías comunitarias que cubre roles de jugadores, empleos civiles, departamentos de policía, vehículos y mecánicas de juego tanto para novatos como veteranos.",
+    "quickLinks": "Enlaces Rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "© 2026 San Diego Roleplay Wiki. No afiliado a Roblox.",
+    "description": "Juego de GTA roleplay en Roblox creado por la comunidad. Carreras civiles, fuerzas del orden y servicios de emergencia.",
+    "playGame": "Jugar San Diego Roleplay",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "YouTube Oficial",
+    "beginnerGuide": "Guía para Principiantes",
+    "raceGuides": "Equipos y Roles",
+    "bossGuides": "Trabajos y Carreras",
+    "buildGuide": "Guía de Vehículos",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos de Servicio"
+  },
+  "guide": {
+    "overviewTitle": "Guías y Tutoriales de San Diego Roleplay",
+    "overviewDescription": "Explora tutoriales iniciales, mecánicas de juego, controles y consejos profesionales para dominar San Diego Roleplay."
+  },
+  "codes": {
+    "overviewTitle": "Códigos y Recompensas de San Diego Roleplay",
+    "overviewDescription": "Encuentra los últimos códigos promocionales activos, recompensas secretas y guías de canje para San Diego Roleplay."
+  },
+  "roles": {
+    "overviewTitle": "Facciones y Roles de San Diego Roleplay",
+    "overviewDescription": "Descubre todas las facciones en San Diego Roleplay, incluyendo Policía, FBI, Ejército, Civiles y rangos disponibles."
+  },
+  "features": {
+    "overviewTitle": "Funciones y Equipamiento de San Diego Roleplay",
+    "overviewDescription": "Conoce los sistemas de armas, vehículos, atracos a bancos, propiedades inmobiliarias y gamepasses en San Diego Roleplay."
+  },
+  "money": {
+    "overviewTitle": "Métodos para Ganar Dinero en San Diego Roleplay",
+    "overviewDescription": "Aprende a generar pesos rápidamente, optimizar empleos legales y construir tu fortuna en San Diego Roleplay."
+  },
+  "updates": {
+    "overviewTitle": "Actualizaciones y Notas de Parche de San Diego Roleplay",
+    "overviewDescription": "Mantente informado sobre las nuevas actualizaciones, vehículos, expansiones de mapa y notas de parche de San Diego Roleplay."
+  },
+  "community": {
+    "overviewTitle": "Comunidad y Redes Sociales de San Diego Roleplay",
+    "overviewDescription": "Conecta con la comunidad de San Diego Roleplay, únete al servidor oficial de Discord y participa en eventos."
+  }
+}
