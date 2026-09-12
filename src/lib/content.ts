@@ -195,20 +195,20 @@ export async function getContent(contentType: string, slugSegments: string[], la
       headings: getHeadingsFromFile(mdxPath),
     };
   } catch {
-    // Fallback 到英文
-    if (language !== routing.defaultLocale) {
+    // Fallback 到英文 (使用常量 "en" 确保 Webpack 静态分析正常)
+    if (language !== "en") {
       try {
-        const enContentDir = path.join(CONTENT_ROOT, routing.defaultLocale, contentType);
+        const enContentDir = path.join(CONTENT_ROOT, "en", contentType);
         const enRealSlug = findFileBySlug(enContentDir, currentSlug) || currentSlug;
         const enMdxPath = path.join(enContentDir, `${enRealSlug}.mdx`);
         const { default: MDXContent, metadata } = await import(
-          `../../content/${routing.defaultLocale}/${contentType}/${enRealSlug}.mdx`
+          `../../content/en/${contentType}/${enRealSlug}.mdx`
         );
         return {
           slug: currentSlug,
           segments: slugSegments,
           contentType,
-          locale: routing.defaultLocale,
+          locale: "en",
           metadata: metadata as ContentMetadata,
           MDXContent,
           headings: getHeadingsFromFile(enMdxPath),
