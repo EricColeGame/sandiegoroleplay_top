@@ -9,10 +9,6 @@
     {
       "pattern": "sandiegoroleplay.top",
       "custom_domain": true
-    },
-    {
-      "pattern": "www.sandiegoroleplay.top",
-      "custom_domain": true
     }
   ]
 }
